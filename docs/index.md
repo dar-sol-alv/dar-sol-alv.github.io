@@ -9,14 +9,14 @@ tags:
 as part of<br>
 <font size= "8"> Project Name</font><br>
 for<br>
-<font size= "5"> Team ### </font><br>
+<font size= "5"> Team 205 </font><br>
 
 **Submission: month, DD, YYYY**
 </center>
 
 ## Introduction
 
-* This needs to be updated so that a reader gets an idea of the purpose of this datasheet.
+* Following the adventures of Dario as he navigates becoming an engineer.
 
 ### Project Summary
 
