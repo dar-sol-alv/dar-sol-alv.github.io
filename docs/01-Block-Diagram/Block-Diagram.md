@@ -6,19 +6,11 @@ tags:
 ---
 
 ## Overview
-This needs to be updated with a brief purpose for having the block diagram.
-Things to mention are:
-* power levels
-* sensor
-* Actuator
-* team connections
-* Power source
-* ...
+First rendition of the individual block diagram that connects to the rest of Team 205's boards. This board focuses on the lighting the system and the implementation of the Overide On/Off button and a reset. The device is planned to be powered by the 5V VBUS output. This section recieves the already deciphered readings from the motion and sound detectors and had the light behave accordingly.
 
-To get some initial formatting help, one can view ["here"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/basic-markdown-examples/) some basic techniques.
 
 
 ## Example Block Diagram 
-Showing an example of how to import a screenshot of the block diagram created outside of git and brought into a page.
+ 
 
-![Example of Indivial Block diagram ](individual-block-diagram.png)
+![Example of Indivial Block diagram ](Individual-BlockDiagram.drawio.png)
