@@ -7,11 +7,11 @@ tags:
 <center>
 <font size= "6">Dario Solis Alvarez Datasheet</font><br>
 as part of<br>
-<font size= "8"> Project unknown (yet)</font><br>
+<font size= "8"> Project: Sight and Sound activated Light (yet)</font><br>
 for<br>
 <font size= "5"> Team 205 </font><br>
 
-**Submission: month, DD, YYYY**
+**Submission: December, 03, 2025**
 </center>
 
 ## Introduction
