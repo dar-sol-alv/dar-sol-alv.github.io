@@ -4,13 +4,13 @@ title: Schematic
 
 ## Overview
 
-This schematic is design to support .... (highlight functionally, power, and controller).
+This schematic is design in conjunction with team 205's project to design and dedvelop a motion and audio sensing light. This schematic is the output of the system, showing the actual activation of the light after all the input information has been digested and sent to this subsystem.
 
 
-![schematic](Screenshot.png){style width:"350" height:"300;"}
-**Figure ##:** Showing a example schematic.
+![schematic](SubsystemSchematicDesign.png){style width:"350" height:"300;"}
+**Figure 04:** Showing the output schematic for the light.
 
 
 ## Resouces
 
-The schematic as a PDF download is available [*here*](ExampleSchematic.pdf), and the Zip folder of the project [*here*](dummyZip.zip).
+The schematic as a PDF download is available [*here*](SubsystemSchematicDesign.pdf), and the Zip folder of the project [*here*](SubsystemSchematicDesign.zip).
