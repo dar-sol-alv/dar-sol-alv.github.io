@@ -13,4 +13,4 @@ First rendition of the individual block diagram that connects to the rest of Tea
 ## Example Block Diagram 
  
 
-![Example of Indivial Block diagram ](Individual-BlockDiagram.drawio.png)
+![Example of Indivial Block diagram ](UpdatedBlockDiagram.png)
