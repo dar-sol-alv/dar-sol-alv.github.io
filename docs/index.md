@@ -7,7 +7,7 @@ tags:
 <center>
 <font size= "6">Dario Solis Alvarez Datasheet</font><br>
 as part of<br>
-<font size= "8"> Project: Sight and Sound activated Light (yet)</font><br>
+<font size= "8"> Project: Sight and Sound activated Light </font><br>
 for<br>
 <font size= "5"> Team 205 </font><br>
 
@@ -20,15 +20,16 @@ for<br>
 
 ### Project Summary
 
-* This needs to be updated to reflect <ins>your version</ins> of the team project, so when shared not via the team's report, the reader gets an idea of the direction of the project and how your work will contribute to the overall success.
-* Add context that ties into the link to your [team report.](https://embedded-systems-design.github.io/EGR304TeamTemplate/)
+Team 205 is committed to bringing about a revolutionary device that includes both visual and audio cues to activate a hands free illumination device. [team report.](https://egr304-team-205-2025-f.github.io/EGR304-2025-F-205.github.io/)
 
 
 ### My Contribution
 
-* This needs to be updated to reflect a team introduction
-* Content should also help an unfamiliar reader navigate to areas of interest. Information like:
+* My part of this 4-piece board is the output of the system, the activation of the LED light 
+* The addition of an overide button to manually power on the light for when a person wishes to keep the light on for a longer period of time 
 
-To review the details listed of the material used to construct the subsection, you can review it in the ["BOM"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/03-BOM/BOM/) section of the datasheet.
+To review the schematic representation of this component, you can review it in the ["Schematic"](https://dar-sol-alv.github.io/04-Schematic/schematic/) section of the datasheet.
 
-For all the sections
+To view the block diagram and how this piece fits in with the others, you can see it in the ["Block_Diagram"](https://dar-sol-alv.github.io/01-Block-Diagram/Block-Diagram/) section of the datasheet.
+
+Unfortunately the BOM, Component Selection, and Power Budget remain under construction until further notice.
